@@ -19,7 +19,7 @@ Ho una laurea in **Architettura (STEM)**, dove ho sviluppato:
 - Esperienza in progettazione **BIM**  
 - Ricerca su sistemi **resilienti e data-driven**
 
-Queste competenze oggi sono al servizio della **sicurezza informatica** e della **data engineering**.
+Queste competenze oggi sono al servizio della **sicurezza informatica**.
 
 ---
 
@@ -38,6 +38,7 @@ Ho completato il corso intensivo **Cybersecurity Specialist (Epicode)** — oltr
 Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze offensive e difensive.  
 ✔️ Certificato Pre-Security  
 ✔️ Certificato Cybersecurity 101
+🚧 CompTIA Security+
 
 ---
 
@@ -61,7 +62,7 @@ Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze off
 - TCP/IP, DNS, Port Scanning
 
 ### 🔹 Scripting & Data
-- Python, SQL  
+- Python, SQL/NoSQL
 - Pandas, Web Scraping
 
 ### 🔹 Cloud & Data Engineering
