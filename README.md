@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1h4KGO1ELU2-6eF50_PUym0Or8ckD578U/view?usp=drive_link" alt="Banner" style="width:100%;"/>
+<img src="https://imgur.com/a/0lDDeBP" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi, I’m Salvatore Gifuni
 
