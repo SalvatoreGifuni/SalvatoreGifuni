@@ -5,7 +5,7 @@
 🎯 **Da architetto a cyber defender**: il mio percorso nasce da una crescente passione per il mondo digitale, trasformata in una nuova carriera nella **cybersecurity**.  
 Mi sto specializzando con un approccio orientato all’analisi, alla pratica e al miglioramento continuo.
 
-**[Portfolio](https://https://github.com/SalvatoreGifuni/Portfolio)]**
+👉 **[Portfolio](https://https://github.com/SalvatoreGifuni/Portfolio)**
 ---
 
 ## 🎓 Background
