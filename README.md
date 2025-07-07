@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/file/d/1h4KGO1ELU2-6eF50_PUym0Or8ckD578U/view?usp=drive_link" alt="Banner" style="width:100%;"/>
+
 # 👋 Hi, I’m Salvatore Gifuni
 
 🎯 **Da architetto a cyber defender**: il mio percorso nasce da una crescente passione per il mondo digitale, trasformata in una nuova carriera nella **cybersecurity**.  
