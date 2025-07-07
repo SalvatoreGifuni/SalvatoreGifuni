@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/SalvatoreGifuni/Banner/main/banner.png" alt="Banner" style="width:100%;" />
 
-# 👋 Hi, I’m Salvatore Gifuni
+# 👋 Ciao, sono Salvatore Gifuni
 
 🎯 **Da architetto a cyber defender**: il mio percorso nasce da una crescente passione per il mondo digitale, trasformata in una nuova carriera nella **cybersecurity**.  
 Mi sto specializzando con un approccio orientato all’analisi, alla pratica e al miglioramento continuo.
@@ -39,7 +39,7 @@ Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze off
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Competenze Tecniche
 
 ### 🔹 Offensive Security
 - Metasploit  
@@ -69,14 +69,14 @@ Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze off
 
 ---
 
-## 🤝 I’m Looking To...
+## 🤝 Sto cercando...
 
 📌 Collaborare a progetti legati a **Cybersecurity**, **Data Engineering**, e **AI applicata alla resilienza e al clima**.  
 🎯 Cercando una prima esperienza come **SOC Analyst**, **Junior Penetration Tester** o in **Incident Response**.
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Restiamo in Contatto
 
 - 📧 **arch.salvatore.gifuni@gmail.com**  
 - 🕵️ **TryHackMe:** `G3mini`  
