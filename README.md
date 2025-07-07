@@ -78,7 +78,7 @@ Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze off
 ## 📫 Restiamo in Contatto
 
 - 📧 **arch.salvatore.gifuni@gmail.com**  
-- 🕵️ **TryHackMe:** `G3mini`  
+- 🕵️ **TryHackMe:** [`G3mini`](https://tryhackme.com/p/G3mini)  
 - 😄 **Pronouns:** he/him  
 - 🐾 **Fun fact:** Responsabile di una colonia felina 🐱. Dog lover 🐶 too!
 
