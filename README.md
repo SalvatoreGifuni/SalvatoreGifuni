@@ -70,8 +70,7 @@ Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze off
 ---
 
 ## 🤝 Sto cercando...
-
-📌 Collaborare a progetti legati a **Cybersecurity**, **Data Engineering**, e **AI applicata alla resilienza e al clima**.  
+  
 🎯 Cercando una prima esperienza come **SOC Analyst**, **Junior Penetration Tester** o in **Incident Response**.
 
 ---
