@@ -38,8 +38,7 @@ Ho completato il corso intensivo **Cybersecurity Specialist (Epicode)** — oltr
 Mi alleno ogni giorno su **TryHackMe** (`G3mini`) per consolidare competenze offensive e difensive.  
 ✔️ Certificato Pre-Security  
 ✔️ Certificato Cybersecurity 101
-
-🚧 CompTIA Security+
+🚧 CompTIA Security+ *in progress...*
 
 ---
 
