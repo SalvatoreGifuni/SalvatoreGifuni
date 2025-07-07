@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/0lDDeBP/ChatGPT Image 2 lug 2025, 16_15_18.png](https://github.com/SalvatoreGifuni/Banner/banner.png" alt="Banner" style="width:100%;"/>
+<img src="https://github.com/SalvatoreGifuni/Banner/banner.png" alt="Banner" style="width:100%;"/>
 
 # 👋 Hi, I’m Salvatore Gifuni
 
