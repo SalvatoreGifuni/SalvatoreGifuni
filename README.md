@@ -1,4 +1,4 @@
-<img src="https://github.com/SalvatoreGifuni/Banner/banner.png" alt="Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/SalvatoreGifuni/Banner/main/banner.png" alt="Banner" style="width:100%;" />
 
 # 👋 Hi, I’m Salvatore Gifuni
 
