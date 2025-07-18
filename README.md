@@ -7,6 +7,7 @@ Mi sto specializzando con un approccio orientato all’analisi, alla pratica e a
 
 👉 **[Portfolio_CyberSecurity Specialist](https://github.com/SalvatoreGifuni/Portfolio)**  
 👉 **[Portfolio_Data Engineering](https://github.com/SalvatoreGifuni/Portfolio_DataEng)**
+
 ---
 
 ## 🎓 Background
